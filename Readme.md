@@ -55,6 +55,11 @@ Once you have completed in _Brewing_ a full tank of beer, come to one of the Bru
 </p>
 
 ***
+## :joystick: The Ko-Lab Game :joystick:
+**_Visit the Ko-Lab Hackerspace and get an unique app installed on your badge!_**
+In this game you will need to exercise your badge tilting skills. Players who complete the game will be visually rewarded!
+
+***
 
 ## Credits - Acknowledgements
 The BruCON 0x10 badge was made for you with love by:
