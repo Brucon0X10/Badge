@@ -3,7 +3,7 @@ Official documentation for the BruCON 0X10 Badge.
 ***
 
 <p align="center">
-<img src="https://github.com/Brucon0X10/Badge0X10/blob/main/Images/Brucon0X10_1.png " alt="Badge Image" width="600"/>
+<img src="https://github.com/Brucon0X10/Badge/blob/main/Images/Brucon0X10_1.png" alt="Badge Image" width="600"/>
 </p>
 
 
@@ -48,7 +48,7 @@ We started you off by filling your copper still with some beer, now it is up to 
 Once you have completed in _Brewing_ a full tank of beer, come to one of the Brucon Brewmasters (_Crew member with the Brucon Brewing Co. Pin_), donate your beer and if you are one of the first to do so we will appoint you an official member!
 
 <p align="center">
-<img src="https://github.com/Brucon0X10/Badge0X10/blob/main/Images/BruconBeerCo.png" alt="Brewing Co Image" width="300"/>
+<img src="https://github.com/Brucon0X10/Badge/blob/main/Images/BruconBeerCo.png" alt="Brewing Co Image" width="300"/>
 </p>
 
 ***
