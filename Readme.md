@@ -22,6 +22,9 @@ The BruCON 0X10 Badge has 6 buttons on the back side: the 4 directional ones you
 You can power your badge via either USB C, or via the attached 18650 lithium-ion battery. 
 The battery will charge when USB is connected. 
 
+
+> :no_entry_sign: The audio jack on the badge is only to be used for connecting two badges and **not for headphones**!! See Beer game for more info. 
+
 ### 2) Apps Launcher 
 The badge boots into a launcher application, from which you can run all the apps you’ve installed with the up/down buttons. A starts the selected app. The following apps are present by default _(and cannot be removed)_:
 
