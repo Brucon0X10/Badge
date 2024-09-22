@@ -1,0 +1,6 @@
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:jorisplusplus/badgePython.git
+[submodule "hardware"]
+	path = hardware
+	url = git@github.com:jorisplusplus/brucon.git
